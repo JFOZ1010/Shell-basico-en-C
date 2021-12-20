@@ -8,5 +8,5 @@ Este shell basico ejecuta comandos de linux
 * htop
 * top
 * jobs 
-
+Esta mini shell basico ejecuta comando atreves de la funcion execvp
 ```
