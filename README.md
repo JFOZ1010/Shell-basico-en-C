@@ -14,3 +14,4 @@ Esta mini shell basica, ejecuta comando atreves de la funcion execvp
 # INTEGRANTES:
 * [Juan Sebastian Camnino Muños](https://github.com/JuanSe320)
 * [Cristian Duvan Machado Mosquera](https://github.com/CriistiianDM)
+* [Juan Felipe Osorio Zapata](https://github.com/JFOZ1010)
