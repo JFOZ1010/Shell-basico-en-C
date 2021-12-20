@@ -1,7 +1,7 @@
 # Shell-basico-en-C
 
 Este shell basico ejecuta comandos de linux.
-* .[Codigo](shell basic)
+* [Codigo](shell_basic)
 
 ```
 * ls
