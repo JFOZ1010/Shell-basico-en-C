@@ -10,3 +10,7 @@ Este shell basico ejecuta comandos de linux
 * sudo apt update 
 Esta mini shell basica, ejecuta comando atreves de la funcion execvp
 ```
+# INTEGRANTES:
+```
+* [Juan Sebastian Camnino Muños](Juanse320)
+```
