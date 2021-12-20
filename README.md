@@ -1,7 +1,8 @@
 # Shell-basico-en-C
 
-Este shell basico ejecuta comandos de linux
-* [Codigo](shell basic) 20
+Este shell basico ejecuta comandos de linux.
+* [Codigo](shell basic)
+
 ```
 * ls
 * tmux
