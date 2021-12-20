@@ -7,6 +7,6 @@ Este shell basico ejecuta comandos de linux
 * tmux
 * htop
 * top
-* jobs 
+* sudo apt update 
 Esta mini shell basico ejecuta comando atreves de la funcion execvp
 ```
