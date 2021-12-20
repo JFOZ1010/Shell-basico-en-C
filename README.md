@@ -13,5 +13,5 @@ Esta mini shell basica, ejecuta comando atreves de la funcion execvp
 ```
 # INTEGRANTES:
 ```
-* [Juan Sebastian Camnino Muños](Juanse320)
+* [Juan Sebastian Camnino Muños](https://github.com/JuanSe320)
 ```
